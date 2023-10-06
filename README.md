@@ -30,3 +30,15 @@ THEN that note appears in the right-hand column and a "New Note" button appears 
 WHEN I click on the "New Note" button in the navigation at the top of the page
 
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column and the button disappears
+
+What is it for?
+
+This application allows you to take notes right on the browser. It saves your notes so that you can come back to them later.
+
+How was it made?
+
+Starter code was provided and had I was to develop the back end of the application.
+
+Issues?
+
+Too many to list, but overall I couldnt not do it.
